@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @swarnim-das
 - 👀 I’m interested in ServiceNow Technology
-- 🌱 I’m currently learning ITBM
 - 📫 How to reach me ... swarnimdas97@gmail.com
 
 <!---
